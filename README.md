@@ -8,3 +8,5 @@ PS D:\GitHubDesktop\senwang2016githubio\senwang2016.github.io> echo "Hello World
 PS D:\GitHubDesktop\senwang2016githubio\senwang2016.github.io> git add --all
 PS D:\GitHubDesktop\senwang2016githubio\senwang2016.github.io> git commit -m "Initial commit"
 PS D:\GitHubDesktop\senwang2016githubio\senwang2016.github.io> git push -u origin master
+# Next Step
+https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/
