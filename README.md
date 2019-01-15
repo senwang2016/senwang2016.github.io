@@ -1,4 +1,4 @@
-# senwang2016.github.io
+# Sen Wang
 This is my personal website.
 # Codes for the PowerShell setup
 PS C:\Users\senwa> cd D:\GitHubDesktop\senwang2016githubio
