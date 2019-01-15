@@ -1,12 +1,37 @@
-# Sen Wang
-This is my personal website.
-# Codes for the PowerShell setup
-PS C:\Users\senwa> cd D:\GitHubDesktop\senwang2016githubio
-PS D:\GitHubDesktop\senwang2016githubio> git clone https://github.com/senwang2016/senwang2016.github.io
-PS D:\GitHubDesktop\senwang2016githubio> cd senwang2016.github.io
-PS D:\GitHubDesktop\senwang2016githubio\senwang2016.github.io> echo "Hello World" > index.html
-PS D:\GitHubDesktop\senwang2016githubio\senwang2016.github.io> git add --all
-PS D:\GitHubDesktop\senwang2016githubio\senwang2016.github.io> git commit -m "Initial commit"
-PS D:\GitHubDesktop\senwang2016githubio\senwang2016.github.io> git push -u origin master
-# Next Step
-https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/
+## Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/senwang2016/Web-based-Slides-1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# TEST!TEST!TEST!
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/senwang2016/Web-based-Slides-1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
