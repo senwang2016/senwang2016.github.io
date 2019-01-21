@@ -1,1 +1,10 @@
-theme: jekyll-theme-minimal
+title: My Personal Website
+author: Sen Wang
+email: senwang2016@gmail.com
+description: This is a test of Jekyll
+twitter_username: swang
+github_username:  senwang2018
+
+# Build settings
+markdown: kramdown
+theme: minima
