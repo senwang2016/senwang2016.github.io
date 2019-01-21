@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: Selected Research
 ---
 
 This is an about page about this awesome site.
