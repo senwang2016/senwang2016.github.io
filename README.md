@@ -1,3 +1,5 @@
+![My most-recent profile](Sen_wang (1).jpg)
+[About](about.md)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/senwang2016/Web-based-Slides-1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
